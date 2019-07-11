@@ -1,6 +1,7 @@
 # vez
 
-A new Flutter project.
+A new Flutter project that keeps timings and locations of busses from Udupi to various places.
+This app is uses PHPMYADMIN for an online database
 
 ## Getting Started
 
